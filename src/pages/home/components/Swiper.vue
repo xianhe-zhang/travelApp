@@ -33,7 +33,6 @@ export default {
 
 <style lang="stylus" scoped>
   .wrapper >>> .swiper-pagination-bullet-active
-  // 样式穿透，使得.wrapper不仅仅限于该子组件
     background: #fff
   .wrapper
     overflow: hidden
