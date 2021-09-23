@@ -5,13 +5,14 @@
   "author": "Xianhe Zhang",
   "private": true,
   "scripts": {
-    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "dev": "webpack-dev-server --host 0.0.0.0 --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js"
   },
   "dependencies": {
     "axios": "^0.21.4",
+    "babel-polyfill": "^6.26.0",
     "better-scroll": "^1.8.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
