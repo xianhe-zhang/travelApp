@@ -6,10 +6,15 @@
 
 
 ## Project demo  
+#### Home page  
 <img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/home.png" width=20%>  
+#### Detail page  
 <img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/detail.png" width=20%>  
+#### Pic-bar page  
 <img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/pic_bar.png" width=20%>  
+#### City page  
 <img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/city.png" width=20%>  
+#### Search page  
 <img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/search.png" width=20%>  
 
 
