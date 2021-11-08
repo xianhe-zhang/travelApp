@@ -1,6 +1,18 @@
 # travel-app
 
-> A Vue.js project
+> A Vue.js-based project!  
+> This projects clone a famous travel mobile app in China.  
+> Pages included: Home, City List, Detail, Search.  
+
+
+## Project demo  
+<img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/home.png" width=20%>  
+<img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/detail.png" width=20%>  
+<img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/pic_bar.png" width=20%>  
+<img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/city.png" width=20%>  
+<img src="https://github.com/xianhe-zhang/travelApp/blob/main/demo_img/search.png" width=20%>  
+
+
 
 ## Build Setup
 
